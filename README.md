@@ -1,1 +1,1 @@
-My solutions to the <www.hackerrank.com> problems.
+My solutions to the www.hackerrank.com problems.
